@@ -15,7 +15,7 @@
 * 🎓 Software Engineering Student
 * 🌱 Currently learning **Flutter, C#, Cyber Security**
 * 🚀 Working on **Mobile & Web Applications**
-* 📫 Reach me at **[yourmail@gmail.com](mailto:yourmail@gmail.com)**
+* 📫 Reach me at **[theekshanadinujaya8@gmail.com](mailto:yourmail@gmail.com)**
 * ⚡ Fun fact: I love building smart systems
 
 ---
