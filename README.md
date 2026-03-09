@@ -35,6 +35,15 @@
 </p>
 
 ---
+## 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-achievements.vercel.app/api?username=PandaSL2&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
 
 ## 🚀 Languages & Tools
 
