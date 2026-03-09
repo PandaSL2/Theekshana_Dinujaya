@@ -35,13 +35,16 @@
 </p>
 
 ---
-## 🏆 GitHub Achievements
+## 🏅 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PandaSL2&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6"/>
+<img height="120" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
+
+<img height="120" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
 
 </p>
+
 
 ---
 
