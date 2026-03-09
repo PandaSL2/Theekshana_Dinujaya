@@ -35,16 +35,13 @@
 </p>
 
 ---
-## 🏅 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Pull%20Shark-GitHub%20Achievement-blue?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/YOLO-GitHub%20Achievement-purple?style=for-the-badge&logo=github"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PandaSL2&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6"/>
 
 </p>
-
 
 ---
 
